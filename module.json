@@ -24,97 +24,113 @@
             "name": "5e-creatures",
             "label": "5e Creatures",
             "path": "packs/5e-creatures.db",
-            "type": "Actor"
+            "type": "Actor",
+            "id": "5e-creatures"
         },
         {
             "name": "5e-backgrounds",
             "label": "5e Backgrounds",
             "path": "packs/5e-backgrounds.db",
-            "type": "Item"
+            "type": "Item",
+            "id": "5e-backgrounds"
         },
         {
             "name": "5e-background-features",
             "label": "5e Background Features",
             "path": "packs/5e-background-features.db",
-            "type": "Item"
+            "type": "Item",
+            "id": "5e-background-features"
         },
         {
             "name": "5e-classes",
             "label": "5e Classes",
             "path": "packs/5e-classes.db",
-            "type": "Item"
+            "type": "Item",
+            "id": "5e-classes"
         },
         {
             "name": "5e-class-features",
             "label": "5e Class Features",
             "path": "packs/5e-class-features.db",
-            "type": "Item"
+            "type": "Item",
+            "id": "5e-class-features"
         },
         {
             "name": "5e-creature-abilities",
             "label": "5e Creature Abilities",
             "path": "packs/5e-creature-abilities.db",
-            "type": "Item"
+            "type": "Item",
+            "id": "5e-creature-abilities"
         },
         {
             "name": "5e-feats",
             "label": "5e Feats",
             "path": "packs/5e-feats.db",
-            "type": "Item"
+            "type": "Item",
+            "id": "5e-feats"
         },
         {
             "name": "5e-items",
             "label": "5e Items",
             "path": "packs/5e-items.db",
-            "type": "Item"
+            "type": "Item",
+            "id": "5e-items"
         },
         {
             "name": "5e-races",
             "label": "5e Races",
             "path": "packs/5e-races.db",
-            "type": "Item"
+            "type": "Item",
+            "id": "5e-races"
         },
         {
             "name": "5e-racial-features",
             "label": "5e Racial Features",
             "path": "packs/5e-racial-features.db",
-            "type": "Item"
+            "type": "Item",
+            "id": "5e-racial-features"
         },
         {
             "name": "5e-spells",
             "label": "5e Spells",
             "path": "packs/5e-spells.db",
-            "type": "Item"
+            "type": "Item",
+            "id": "5e-spells"
         },
         {
             "name": "5e-subclasses",
             "label": "5e Subclasses",
             "path": "packs/5e-subclasses.db",
-            "type": "Item"
+            "type": "Item",
+            "id": "5e-subclasses"
         },
         {
             "name": "5e-journals",
             "label": "5e Journals",
             "path": "packs/5e-journals.db",
-            "type": "JournalEntry"
+            "type": "JournalEntry",
+            "id": "5e-journals"
         },
         {
             "name": "5e-macros",
             "label": "5e Macros",
             "path": "packs/5e-macros.db",
-            "type": "Macro"
+            "type": "Macro",
+            "id": "5e-macros"
         },
         {
             "name": "5e-roll-tables",
             "label": "5e Roll Tables",
             "path": "packs/5e-roll-tables.db",
-            "type": "RollTable"
+            "type": "RollTable",
+            "id": "5e-roll-tables"
         },
         {
             "name": "5e-trade-goods",
             "label": "5e Trade Goods",
             "path": "packs/5e-trade-goods.db",
-            "type": "Item"
+            "type": "Item",
+            "id": "5e-trade-goods"
         }
     ],
     "dependencies": [],
