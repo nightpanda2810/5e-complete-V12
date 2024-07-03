@@ -1,5 +1,6 @@
 {
     "id": "5e-complete",
+    "name": "5e-complete",
     "title": "5e Complete Compendium",
     "version": "0.3.3",
     "authors": [
@@ -13,22 +14,11 @@
         "minimum": "11",
         "verified": "12"
     },
+    "esmodules": [],
+    "scripts": [],
     "styles": [
         "css/styles.css"
     ],
-    "relationships": {
-        "systems": [
-            {
-                "id": "dnd5e",
-                "type": "system",
-                "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
-                "compatibility": {
-                    "minimum": "2.0.0",
-                    "verified": "2.0.3"
-                }
-            }
-        ]
-    },
     "packs": [
         {
             "name": "5e-creatures",
@@ -127,6 +117,20 @@
             "type": "Item"
         }
     ],
+    "dependencies": [],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
+                "compatibility": {
+                    "minimum": "2.0.0",
+                    "verified": "2.0.3"
+                }
+            }
+        ]
+    },
     "url": "https://github.com/btbias/5e-complete",
     "manifest": "https://github.com/btbias/5e-complete/releases/latest/download/module.json",
     "download": "https://github.com/btbias/5e-complete/releases/download/v0.3.3/module.zip",
