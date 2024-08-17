@@ -11,8 +11,8 @@
     ],
     "compatibility": {
             "minimum": "10",
-            "maximum": "10",
-            "verified": "10.290"
+            "maximum": "12",
+            "verified": "12"
     },
     "styles": [
         "css/styles.css"
@@ -24,8 +24,8 @@
                 "type": "system",
                 "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
                 "compatibility": {
-                    "minimum": "2.0.0",
-                    "verified": "2.0.3"
+                    "minimum": "3.0.0",
+                    "verified": "3.3.1"
                 }
             }
         ]
@@ -160,8 +160,8 @@
             "package": "5e-complete"
         }
     ],
-    "url": "https://github.com/MrGogglez/5e-complete",
+    "url": "https://github.com/tobifroe/5e-complete",
     "manifest": "https://drive.google.com/uc?export=download&id=1OpC516pq6fMWS-7Chy0oQg-36rTKjGrC",
-    "download": "https://github.com/MrGogglez/5e-complete-V11/archive/refs/tags/v0.3.3.zip",
+    "download": "https://github.com/tobifroe/5e-complete-V11/archive/refs/tags/v0.3.3.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
